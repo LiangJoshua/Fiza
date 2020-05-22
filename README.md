@@ -1,3 +1,13 @@
+# Fiza
+
+## Requirements
+
+* [Node.js](https://nodejs.org/) (I recommend installing with [NVM](https://github.com/nvm-sh/nvm))
+* [Homebrew](https://brew.sh) (to install MongoDB)
+* [Git](https://git-scm.com/downloads) (to install Git)
+* [Github](https://github.com/)
+* [Slack](https://slack.com/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +76,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
