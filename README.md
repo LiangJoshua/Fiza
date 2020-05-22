@@ -3,8 +3,8 @@
 
 ## Requirements
 
-* [Node.js](https://nodejs.org/) (I recommend installing with [NVM](https://github.com/nvm-sh/nvm))
-* [Homebrew](https://brew.sh) (to install MongoDB)
+* [Node.js](https://nodejs.org/) (I recommend installing with [NVM](https://github.com/nvm-sh/nvm)) optional for now
+* [Homebrew](https://brew.sh) (to install MongoDB) optional for now
 * [Git](https://git-scm.com/downloads) (to install Git)
 * [Github](https://github.com/)
 * [Slack](https://slack.com/)
