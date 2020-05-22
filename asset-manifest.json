@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fiza/static/css/main.5f361e03.chunk.css",
+    "main.js": "/fiza/static/js/main.907cd5b8.chunk.js",
+    "main.js.map": "/fiza/static/js/main.907cd5b8.chunk.js.map",
+    "runtime-main.js": "/fiza/static/js/runtime-main.a4884bb1.js",
+    "runtime-main.js.map": "/fiza/static/js/runtime-main.a4884bb1.js.map",
+    "static/js/2.c4722e4e.chunk.js": "/fiza/static/js/2.c4722e4e.chunk.js",
+    "static/js/2.c4722e4e.chunk.js.map": "/fiza/static/js/2.c4722e4e.chunk.js.map",
+    "index.html": "/fiza/index.html",
+    "precache-manifest.99ecb03691893db17afd2a400419ddb0.js": "/fiza/precache-manifest.99ecb03691893db17afd2a400419ddb0.js",
+    "service-worker.js": "/fiza/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/fiza/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c4722e4e.chunk.js.LICENSE.txt": "/fiza/static/js/2.c4722e4e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/fiza/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4884bb1.js",
+    "static/js/2.c4722e4e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.907cd5b8.chunk.js"
+  ]
+}
