@@ -6,6 +6,6 @@
 * [Homebrew](https://brew.sh) (to install MongoDB)
 * [Git](https://git-scm.com/downloads) (to install Git)
 * [Github](https://github.com/)
-* [Slack](ttps://slack.com/)
+* [Slack](https://slack.com/)
 
 
