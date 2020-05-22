@@ -8,6 +8,7 @@
 * [Git](https://git-scm.com/downloads) (to install Git)
 * [Github](https://github.com/)
 * [Slack](https://slack.com/)
+* Any IDE, highly highly highly recommend [Vistual Studio Code](https://code.visualstudio.com/download)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
